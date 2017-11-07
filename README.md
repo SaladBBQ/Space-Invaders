@@ -14,4 +14,6 @@ Follow these steps in order to use Love2d:
 
 
 # Support 
-If you have any questions, let me know by submitting a [issue](https://github.com/SaladBBQ/Space-Invaders/issues).
+If you have any questions, let me know by submitting a [issue](https://github.com/SaladBBQ/Space-Invaders/issues). </br>
+
+Also, check out [Wiki for Love2d] (https://love2d.org/wiki/Main_Page).
