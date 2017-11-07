@@ -3,8 +3,8 @@
 A simple Space Invaders Game. 
 
 # Installation 
-Make sure you have Love2d installed
-•Love2d (https://love2d.org/)
+Make sure you have Love2d installed </br>
+•Love2d (https://love2d.org/) </br>
 
 
 # Support 
